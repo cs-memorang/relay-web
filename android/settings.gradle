@@ -1,0 +1,3 @@
+rootProject.name = 'relay_web'
+
+include ':app'
